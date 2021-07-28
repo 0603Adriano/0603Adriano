@@ -20,8 +20,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( https://www.linkedin.com/in/adriano-martins-de-oliveira-3ab2b4181/)
 
-
-
 - Obrigado por visitar meu perfil!
 - Não deixe de conferir meus projetos
 
