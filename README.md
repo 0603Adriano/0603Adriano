@@ -4,7 +4,7 @@
 
 <img src="/images/divider.png">
 
-##### *Se não sabemos onde queremos chegar, qualquer caminho serve!*
+##### *Se não sabemos aonde queremos chegar, qualquer caminho serve!*
 
 <img src="/images/divider2.png">:computer: Graduando em Ciências da Computação.
 
